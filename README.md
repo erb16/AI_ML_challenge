@@ -5,5 +5,5 @@ This project formed part of the winning entry for Code First Girls' Sustainabili
 
 What does it do?  
 The 'calculator' takes input from the user, allowing them to choose a European country and year. 
-It uses a linear regression ML algorithm to create a forecast for that country's uptake in electric vehicles. 
+It uses a linear regression ML algorithm to create a forecast for that country's uptake in electric vehicles. 📈
 
